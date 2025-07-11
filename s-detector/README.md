@@ -7,7 +7,7 @@ No person or group was specifically targeted or meant to be harrased.
 
 The said keylogger doesn't save or send the logs to anywehere except for the user's host device in the "slur_logs.txt" 
 
-You may want to change this part in the code:
+You may want to change this part in the code: (line 100)
 
 trigger_actions = {            
 
