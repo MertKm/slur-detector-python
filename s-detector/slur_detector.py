@@ -1,4 +1,4 @@
-#!/usr/bin/python3(venv)
+#!/usr/bin/python3
 # Sensitive content: slurs written in the script. 
 # python script programmed to detect slurs via (!)keylogger and start functions.
 
