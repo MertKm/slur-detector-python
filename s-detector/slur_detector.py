@@ -96,22 +96,10 @@ def punish2():
 # you can change this part however you want.
 
 trigger_actions = {            
-    # racial slurs
-    "niger": punish0, "i hate ni": punish0, "NIGGER": punish0,
-    "nigger": punish0,  "n-word": punish0, "NİGGER": punish0,
-    "nigga": punish0,  "nugga": punish0, "nigga.": punish0,
-    "niga": punish0,  "black n": punish0, "NIGER": punish0,
-    # harrasment (i'll also add some turkish slurs)
-    "fuck": punish1, "fck": punish1, "bitch": punish1,
-    "whore": punish1, "slut": punish1, "amk": punish1,
-    "sg": punish1, "oevladı": punish1, "orospu": punish1, 
-    "akp": punish1, "siktir": punish1, "piç": punish1,
-    "asshole": punish1, "gerizekalı": punish1, "aptal": punish1,
-    "dumbass": punish1, "idiot": punish1, "dickhead": punish1,
-    # cringe part
-    "amongus": punish2, "sus": punish2, "imposter": punish2,
-    "baka": punish2
-    ##... AND THIS GOES ON
+
+    ## FILL FHIS PLACE WITH WHATEVER YOU WANT.
+    # for example: 
+    # "slur1": punish0
 
 }
 
