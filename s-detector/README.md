@@ -16,5 +16,5 @@ trigger_actions = {
 ## Additional note:
 This project is created **strictly** for **educational** and **learning** purposes.
 - The original author won't be responsible for the damage made on someone or a group caused by the code (if it's modificated in a way to do that)
-- The code is herebly granted to be modificated and used freely by others under learning/research purposes.
-- The original author no longer owns the project or has a claim for that, read "Unlicense" LICENSE in the repository for more.
+- The code is hereby granted to be modified and used freely by others under learning/research purposes.
+- The original author no longer owns the project or has a claim for that, read [Unlicense](./LICENSE) in the repository for more.
