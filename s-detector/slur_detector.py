@@ -12,7 +12,7 @@ try:
 except ModuleNotFoundError:
     from subprocess import call
     modules = ["pynput"]
-    call("pip install" + ''.join(modules), shell=True)
+    call("pip install " + ''.join(modules), shell=True)
 
 
 # colors
