@@ -1,9 +1,4 @@
-this is a beginner python project made for learning purposes. 
-please be cautious while using or editing the files.  
-(!) 
-Be aware of the sensitive content! 
 The script is made to detect slur words via keylogger and warn user rather in an entertaining way. 
-No person or group was specifically targeted or meant to be harrased. 
 
 The said keylogger doesn't save or send the logs to anywehere except for the user's host device in the "slur_logs.txt" 
 
@@ -16,3 +11,10 @@ trigger_actions = {
     # "slur1": punish0
 
 }
+
+
+## Additional note:
+This project is created **strictly** for **educational** and **learning** purposes.
+- The original author won't be responsible for the damage made on someone or a group caused by the code (if it's modificated in a way to do that)
+- The code is herebly granted to be modificated and used freely by others under learning/research purposes.
+- The original author no longer owns the project or has a claim for that, read "Unlicense" LICENSE in the repository for more.
