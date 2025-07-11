@@ -1,7 +1,7 @@
 this is a beginner python project made for learning purposes. 
 please be cautious while using or editing the files.  
 (!) 
-Be aware of the sensitive content that the script contains. 
+Be aware of the sensitive content! 
 The script is made to detect slur words via keylogger and warn user rather in an entertaining way. 
 No person or group was specifically targeted or meant to be harrased. 
 
