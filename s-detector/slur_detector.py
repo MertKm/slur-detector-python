@@ -13,6 +13,9 @@ except ModuleNotFoundError:
     from subprocess import call
     modules = ["pynput"]
     call("pip install " + ''.join(modules), shell=True)
+    print(f"\n\n[+] I've installed necessary modules for you.", ' '
+           "If the script is still not working, be cautious about linux system based on Debian.", ' '
+             "using virtual enviroment may be necessary\n\n")
 
 
 # colors
